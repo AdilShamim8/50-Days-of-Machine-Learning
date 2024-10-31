@@ -83,7 +83,7 @@ Here’s a breakdown of what you’ll learn over the 50 days:
 To start learning, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/50-Days-of-Machine-Learning.git
+git clone https://github.com/AdilShamim8/50-Days-of-Machine-Learning.git
 cd 50-Days-of-Machine-Learning
 ```
 
