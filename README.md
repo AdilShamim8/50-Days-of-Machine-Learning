@@ -27,56 +27,50 @@ Machine learning is a field that's continually evolving and expanding, offering 
 
 Here’s a breakdown of what you’ll learn over the 50 days:
 
-1. **Day 01**: Working with CSV Files
-2. **Day 02**: Working with JSON and SQL
-3. **Day 03**: Pandas DataFrame using Web Scraping
-4. **Day 04**: Understanding Your Data - Descriptive Stats
-5. **Day 05**: Univariate Analysis
-6. **Day 06**: Function Transformer
-7. **Day 07**: Binning and Binarization
-8. **Day 08**: Handling Mixed Variables
-9. **Day 09**: Handling Date and Time
-10. **Day 10**: Complete Case Analysis
-11. **Day 11**: Imputing Numerical Data
-12. **Day 12**: Handling Missing Categorical Data
-13. **Day 13**: Outlier Removal using Z-Score
-14. **Day 14**: Outlier Removal using IQR Method
-15. **Day 15**: Outlier Detection using Percentiles
-16. **Day 16**: Feature Construction and Feature Splitting
-17. **Day 17**: Simple Linear Regression
-18. **Day 18**: Multiple Linear Regression
-19. **Day 19**: Types of Gradient Descent
-20. **Day 20**: Polynomial Regression
-21. **Day 21**: Regularized Linear Models
-22. **Day 22**: ElasticNet Regression
-23. **Day 23**: Logistic Regression
-24. **Day 24**: Classification Metrics
-25. **Day 25**: Logistic Regression Continued
-26. **Day 26**: Stacking and Blending
-27. **Day 27**: Advanced Regression Techniques
-28. **Day 28**: Model Evaluation and Selection
-29. **Day 29**: Hyperparameter Tuning
-30. **Day 30**: Ensemble Methods
-31. **Day 31**: Decision Trees
-32. **Day 32**: Random Forests
-33. **Day 33**: Support Vector Machines
-34. **Day 34**: K-Nearest Neighbors
-35. **Day 35**: Naive Bayes Classifier
-36. **Day 36**: Neural Networks Basics
-37. **Day 37**: Deep Learning Introduction
-38. **Day 38**: Convolutional Neural Networks
-39. **Day 39**: Recurrent Neural Networks
-40. **Day 40**: Natural Language Processing
-41. **Day 41**: Time Series Analysis
-42. **Day 42**: Feature Engineering Techniques
-43. **Day 43**: Dimensionality Reduction
-44. **Day 44**: Principal Component Analysis
-45. **Day 45**: Clustering Techniques
-46. **Day 46**: K-Means Clustering
-47. **Day 47**: Hierarchical Clustering
-48. **Day 48**: Anomaly Detection
-49. **Day 49**: Model Deployment
-50. **Day 50**: Capstone Project and Review
+- **Day 1**: Working with CSV files
+- **Day 2**: Working with JSON and SQL
+- **Day 4**: Pandas DataFrame using Web Scraping
+- **Day 5**: Understanding Your Data - Descriptive Stats
+- **Day 6**: Univariate Analysis
+- **Day 7**: Bivariate Analysis
+- **Day 8**: Pandas Profiling
+- **Day 10**: Standardization
+- **Day 11**: Normalization
+- **Day 12**: Ordinal Encoding
+- **Day 13**: One-Hot Encoding
+- **Day 14**: Column Transformer
+- **Day 15**: Sklearn Pipelines
+- **Day 16**: Function Transformer
+- **Day 17**: Power Transformer
+- **Day 18**: Binning and Binarization
+- **Day 19**: Handling Mixed Variables
+- **Day 20**: Handling Date and Time
+- **Day 21**: Complete Case Analysis
+- **Day 22**: Imputing Numerical Data
+- **Day 23**: Handling Missing Categorical Data
+- **Day 24**: Missing Indicator
+- **Day 25**: KNN Imputer
+- **Day 26**: Iterative Imputer
+- **Day 28**: Outlier Removal using Z-Score
+- **Day 29**: Outlier Removal using IQR Method
+- **Day 30**: Outlier Detection using Percentiles
+- **Day 31**: Feature Construction and Feature Splitting
+- **Day 33**: PCA (Principal Component Analysis)
+- **Day 34**: Simple Linear Regression
+- **Day 35**: Regression Metrics
+- **Day 36**: Multiple Linear Regression
+- **Day 37**: Gradient Descent
+- **Day 38**: Types of Gradient Descent
+- **Day 39**: Polynomial Regression
+- **Day 41**: Regularized Linear Models
+- **Day 42**: Lasso Regression
+- **Day 43**: ElasticNet Regression
+- **Day 44**: Logistic Regression
+- **Day 45**: Classification Metrics
+- **Day 46**: Logistic Regression (continued)
+- **Day 47**: Random Forest
+- **Day 48**: AdaBoost
+- **Day 49**: Stacking and Blending
 
 ## Getting Started
 
