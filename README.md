@@ -29,48 +29,48 @@ Here’s a breakdown of what you’ll learn over the 50 days:
 
 - **Day 1**: Working with CSV files
 - **Day 2**: Working with JSON and SQL
-- **Day 4**: Pandas DataFrame using Web Scraping
-- **Day 5**: Understanding Your Data - Descriptive Stats
-- **Day 6**: Univariate Analysis
-- **Day 7**: Bivariate Analysis
-- **Day 8**: Pandas Profiling
-- **Day 10**: Standardization
-- **Day 11**: Normalization
-- **Day 12**: Ordinal Encoding
-- **Day 13**: One-Hot Encoding
-- **Day 14**: Column Transformer
-- **Day 15**: Sklearn Pipelines
-- **Day 16**: Function Transformer
-- **Day 17**: Power Transformer
-- **Day 18**: Binning and Binarization
-- **Day 19**: Handling Mixed Variables
-- **Day 20**: Handling Date and Time
-- **Day 21**: Complete Case Analysis
-- **Day 22**: Imputing Numerical Data
-- **Day 23**: Handling Missing Categorical Data
-- **Day 24**: Missing Indicator
-- **Day 25**: KNN Imputer
-- **Day 26**: Iterative Imputer
-- **Day 28**: Outlier Removal using Z-Score
-- **Day 29**: Outlier Removal using IQR Method
-- **Day 30**: Outlier Detection using Percentiles
-- **Day 31**: Feature Construction and Feature Splitting
-- **Day 33**: PCA (Principal Component Analysis)
-- **Day 34**: Simple Linear Regression
-- **Day 35**: Regression Metrics
-- **Day 36**: Multiple Linear Regression
-- **Day 37**: Gradient Descent
-- **Day 38**: Types of Gradient Descent
-- **Day 39**: Polynomial Regression
-- **Day 41**: Regularized Linear Models
-- **Day 42**: Lasso Regression
-- **Day 43**: ElasticNet Regression
-- **Day 44**: Logistic Regression
-- **Day 45**: Classification Metrics
-- **Day 46**: Logistic Regression (continued)
-- **Day 47**: Random Forest
-- **Day 48**: AdaBoost
-- **Day 49**: Stacking and Blending
+- **Day 3**: Pandas DataFrame using Web Scraping
+- **Day 4**: Understanding Your Data - Descriptive Stats
+- **Day 5**: Univariate Analysis
+- **Day 6**: Bivariate Analysis
+- **Day 7**: Pandas Profiling
+- **Day 8**: Standardization
+- **Day 9**: Normalization
+- **Day 10**: Ordinal Encoding
+- **Day 11**: One-Hot Encoding
+- **Day 12**: Column Transformer
+- **Day 13**: Sklearn Pipelines
+- **Day 14**: Function Transformer
+- **Day 15**: Power Transformer
+- **Day 16**: Binning and Binarization
+- **Day 17**: Handling Mixed Variables
+- **Day 18**: Handling Date and Time
+- **Day 19**: Complete Case Analysis
+- **Day 20**: Imputing Numerical Data
+- **Day 21**: Handling Missing Categorical Data
+- **Day 22**: Missing Indicator
+- **Day 23**: KNN Imputer
+- **Day 24**: Iterative Imputer
+- **Day 25**: Outlier Removal using Z-Score
+- **Day 26**: Outlier Removal using IQR Method
+- **Day 27**: Outlier Detection using Percentiles
+- **Day 28**: Feature Construction and Feature Splitting
+- **Day 29**: PCA (Principal Component Analysis)
+- **Day 30**: Simple Linear Regression
+- **Day 31**: Regression Metrics
+- **Day 32**: Multiple Linear Regression
+- **Day 33**: Gradient Descent
+- **Day 34**: Types of Gradient Descent
+- **Day 35**: Polynomial Regression
+- **Day 36**: Regularized Linear Models
+- **Day 37**: Lasso Regression
+- **Day 38**: ElasticNet Regression
+- **Day 39**: Logistic Regression
+- **Day 40**: Classification Metrics
+- **Day 41**: Logistic Regression (continued)
+- **Day 42**: Random Forest
+- **Day 43**: AdaBoost
+- **Day 44**: Stacking and Blending
 
 ## Getting Started
 
