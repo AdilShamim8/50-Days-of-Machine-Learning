@@ -37,9 +37,9 @@ In a rapidly evolving technological landscape, mastering machine learning is mor
 
 ### Here’s a breakdown of what you’ll learn over the 50 days:
 
-| Day  | Topic                                                       | 
-|------|-------------------------------------------------------------|
-| 🗓️ Day 1  | **Working with CSV files**                                                                                                                                                                |
+| Day  | Topic                                                                                                                                                            | 
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🗓️ Day 1  | **Working with CSV files**                                                                                                                         |
 | 🗓️ Day 2  | **Working with JSON and SQL**                                 |
 | 🗓️ Day 3  | **Pandas DataFrame using Web Scraping**                       |
 | 🗓️ Day 4  | **Understanding Your Data - Descriptive Stats**              |
