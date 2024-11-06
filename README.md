@@ -10,7 +10,6 @@ Welcome to the **50 Days of Machine Learning** project! This repository is desig
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [How to Contribute](#how-to-contribute)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## 🔍 Introduction
