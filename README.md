@@ -39,7 +39,7 @@ In a rapidly evolving technological landscape, mastering machine learning is mor
 
 | Day  | Topic                                                       | 
 |------|-------------------------------------------------------------|
-| 🗓️ Day 1  | **Working with CSV files**                                     |
+| 🗓️ Day 1  | **Working with CSV files**                                                                                                                                                                |
 | 🗓️ Day 2  | **Working with JSON and SQL**                                 |
 | 🗓️ Day 3  | **Pandas DataFrame using Web Scraping**                       |
 | 🗓️ Day 4  | **Understanding Your Data - Descriptive Stats**              |
