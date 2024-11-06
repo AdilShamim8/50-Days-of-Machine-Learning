@@ -105,9 +105,6 @@ pip install -r requirements.txt
 
 Contributions are welcome! If you'd like to improve this repository or add resources, please fork the repository, make your changes, and submit a pull request. Please ensure to maintain code style and include comments where necessary.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
