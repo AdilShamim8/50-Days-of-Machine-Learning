@@ -105,7 +105,7 @@ pip install -r requirements.txt
 Contributions are welcome! If you'd like to improve this repository or add resources, please fork the repository, make your changes, and submit a pull request. Please ensure to maintain code style and include comments where necessary.
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Special thanks to the machine learning community and various online resources that inspired this project. Your contributions to the field of machine learning make this learning journey possible!
 
