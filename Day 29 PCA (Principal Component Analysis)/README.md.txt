@@ -1,0 +1,1 @@
+PCA code Kaggle notebook :  Stps://www.kaggle.com/code/adilshamim8/pca-demo
