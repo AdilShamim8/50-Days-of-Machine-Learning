@@ -74,6 +74,7 @@ Machine learning is a field that's continually evolving and expanding, offering 
 | 🗓️ Day 42 | **Random Forest**                                            |
 | 🗓️ Day 43 | **AdaBoost**                                                 |
 | 🗓️ Day 44 | **Stacking and Blending**                                     |
+| 🗓️ Day 45 | **Gradient Boosting**                                        |
 
 ---
 
