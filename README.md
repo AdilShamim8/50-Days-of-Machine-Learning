@@ -30,6 +30,7 @@ Machine learning is a field that's continually evolving and expanding, offering 
 
 | Day  | Topic                                                       | 
 |------|-------------------------------------------------------------|
+| 🗓️ Day 00 | **API To DataFrame**                                     |
 | 🗓️ Day 1  | **Working with CSV files**                                     |
 | 🗓️ Day 2  | **Working with JSON and SQL**                                 |
 | 🗓️ Day 3  | **Pandas DataFrame using Web Scraping**                       |
